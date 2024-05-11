@@ -1,5 +1,5 @@
 a
-master hace cambio en la linea 2
+linea 2 resuelta
 3
 4
 5
